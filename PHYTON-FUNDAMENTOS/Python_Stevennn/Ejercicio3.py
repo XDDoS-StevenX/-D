@@ -1,5 +1,3 @@
-Ejercicio3
-
 eleccion_comida = input("¿Qué tipo de comida prefieres? (italiana, mexicana, china): ")
 
 if eleccion_comida.lower() == 'italiana':
