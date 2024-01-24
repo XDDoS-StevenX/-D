@@ -1,5 +1,3 @@
-Ejercicio4
-
 contrasena_predefinida = "miContrasenaSegura"
 contrasena_ingresada = input("Por favor, ingresa tu contraseña: ")
 
