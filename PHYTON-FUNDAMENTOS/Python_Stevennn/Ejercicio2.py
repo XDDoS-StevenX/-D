@@ -1,5 +1,3 @@
-Ejercicio2
-
 calificacion_numerica = float(input("Ingresa tu calificación numérica: "))
 
 if calificacion_numerica >= 90:
