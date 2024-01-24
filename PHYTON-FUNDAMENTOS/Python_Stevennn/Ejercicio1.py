@@ -1,4 +1,3 @@
-
 edad = int(input("Por favor, ingresa tu edad: "))
 
 if edad >= 18:
