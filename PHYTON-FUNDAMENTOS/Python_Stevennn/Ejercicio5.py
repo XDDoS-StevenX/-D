@@ -1,5 +1,3 @@
-Ejercicio5
-
 palabra = input("Ingresa una palabra: ")
 
 palabra = palabra.replace(" ", "").lower()
